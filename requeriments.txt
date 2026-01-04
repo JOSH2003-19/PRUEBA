@@ -5,3 +5,5 @@ fastapi==0.115.0
 uvicorn[standard]==0.30.0
 SQLAlchemy==2.0.32
 python-dotenv==1.0.1
+
+#al final ejecutas python -m uvicorn app.main:app --reload y funcionará
