@@ -1,0 +1,11 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# SQLite
+app/caja.db
+
+# Entornos
+.env
